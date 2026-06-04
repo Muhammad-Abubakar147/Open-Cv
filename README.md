@@ -10,3 +10,10 @@ OpenCV (Open Source Computer Vision Library) is one of the most widely used open
 This repository demonstrates practical implementations of OpenCV concepts through various projects and examples.
 
 ---
+## 🚀 Features
+
+### Image Processing
+- Reading and displaying images
+- Image resizing and cropping
+- Color space conversions
+- Image rotation and flipping
