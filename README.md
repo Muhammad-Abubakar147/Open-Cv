@@ -29,3 +29,11 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Feature extraction
 - Image segmentation
 - Template matching
+
+### Object Detection
+- Face detection
+- Eye detection
+- Smile detection
+- Human detection
+- Vehicle detection
+- Custom object detection
