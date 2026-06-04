@@ -1,1 +1,4 @@
-Hy there his is Open Cv repo 
+Open cv is python library which is use for:
+=> Video processing
+=>Image processing
+=>Face recognization
