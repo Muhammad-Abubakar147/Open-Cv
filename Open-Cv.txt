@@ -18,6 +18,6 @@ Open cv is python library which is use for:
 
 1. Free and open-source
 2. Cross-platform (Windows, Linux, macOS)
-Supports multiple programming languages such as Python, C++, and Java
-Large community and extensive documentation
-Optimized for real-time performance
+3. Supports multiple programming languages such as Python, C++, and Java
+4. Large community and extensive documentation
+5. Optimized for real-time performance
