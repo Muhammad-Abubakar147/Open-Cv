@@ -63,3 +63,9 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - OpenCV
 - NumPy
 - Matplotlib
+- Matplotlib
+- Jupyter Notebook
+- VS Code
+- Google Colab
+
+---
