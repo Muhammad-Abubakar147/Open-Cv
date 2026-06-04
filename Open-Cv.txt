@@ -16,7 +16,7 @@ Open cv is python library which is use for:
 
 .=>Why Use OpenCV?
 
-Free and open-source
+1. Free and open-source
 Cross-platform (Windows, Linux, macOS)
 Supports multiple programming languages such as Python, C++, and Java
 Large community and extensive documentation
