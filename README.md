@@ -27,3 +27,5 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Contour detection
 - Shape recognition
 - Feature extraction
+- Image segmentation
+- Template matching
