@@ -43,3 +43,6 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Video capture and playback
 - Webcam integration
 - Real-time frame processing
+- Motion detection
+- Object tracking
+- Background subtraction
