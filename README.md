@@ -37,3 +37,9 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Human detection
 - Vehicle detection
 - Custom object detection
+
+
+### Video Processing
+- Video capture and playback
+- Webcam integration
+- Real-time frame processing
