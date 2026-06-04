@@ -57,3 +57,9 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Real-Time AI Vision Systems
 
 ---
+## 🛠️ Technologies Used
+
+- Python 3.x
+- OpenCV
+- NumPy
+- Matplotlib
