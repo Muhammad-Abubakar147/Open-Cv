@@ -13,3 +13,11 @@ Open cv is python library which is use for:
 =>Camera Calibration
 =>Machine Learning Integration
 =>Real-Time Computer Vision Applications
+
+.=>Why Use OpenCV?
+
+Free and open-source
+Cross-platform (Windows, Linux, macOS)
+Supports multiple programming languages such as Python, C++, and Java
+Large community and extensive documentation
+Optimized for real-time performance
