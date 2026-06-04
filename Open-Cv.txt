@@ -8,7 +8,7 @@ Open cv is python library which is use for:
 =>Video Analysis
 =>Object Detection
 =>Motion Tracking
-Feature Detection
+=>Feature Detection
 Camera Calibration
 Machine Learning Integration
 Real-Time Computer Vision Applications
