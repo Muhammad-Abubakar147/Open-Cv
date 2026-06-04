@@ -1,3 +1,6 @@
+OpenCV (Open Source Computer Vision Library) is an open-source library designed for computer vision, image processing, and machine learning applications.
+ It provides a wide range of tools and algorithms that enable computers to understand and analyze images and videos.
+
 Open cv is python library which is use for:
 => Video processing
 =>Image processing
