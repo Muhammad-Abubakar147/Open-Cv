@@ -46,3 +46,14 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Motion detection
 - Object tracking
 - Background subtraction
+
+
+### Advanced Applications
+- Optical Character Recognition (OCR)
+- Deep Learning with OpenCV
+- Pose Estimation
+- Gesture Recognition
+- Image Classification
+- Real-Time AI Vision Systems
+
+---
