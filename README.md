@@ -21,3 +21,9 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Blurring and smoothing
 - Thresholding techniques
 - Histogram analysis
+  
+### Computer Vision
+- Edge detection
+- Contour detection
+- Shape recognition
+- Feature extraction
