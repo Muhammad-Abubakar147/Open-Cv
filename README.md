@@ -17,3 +17,7 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Image resizing and cropping
 - Color space conversions
 - Image rotation and flipping
+- Drawing shapes and text
+- Blurring and smoothing
+- Thresholding techniques
+- Histogram analysis
