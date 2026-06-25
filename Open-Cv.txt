@@ -29,3 +29,36 @@ Use in Machine learning and Deep Learning .
 
 What is this in this repository uh will find ???
 =>Here uh can find everything about Open Cv form very basic to very Advance level .
+
+Phases which we complete in this repository 
+
+Phase 0 - Getting Ready for OpenCV
+
+Phase 1 - Getting Started with OpenCV
+
+Phase 2 - Image Transformations & Manipulation
+
+Phase 3 - Working with Video & Webcam
+
+Phase 4 - Image Filtering & Blurring
+
+Phase 5 - Edge Detection & Thresholding
+
+Phase 6 - Contours & Shape Detection
+
+Phase 7 - Face & Object Detection
+
+
+
+Problems Faced Before OpenCV
+
+1. Difficulty processing images manually using Python.
+2. No efficient way to detect objects in images.
+3. Challenges in handling video streams and webcams.
+4. Slow image manipulation using traditional methods.
+5. Difficulty implementing computer vision algorithms from scratch.
+6. Complex image filtering and enhancement techniques.
+7. Challenges in edge detection and shape recognition.
+8. Difficulty building real-time computer vision applications.
+9. Lack of knowledge about image coordinate systems and color spaces.
+10. Limited understanding of computer vision fundamentals.
