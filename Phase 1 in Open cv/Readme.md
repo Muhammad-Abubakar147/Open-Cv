@@ -12,3 +12,7 @@ The purpose of this phase is to understand:
 - How to display an image
 - How to save an image
 - Basic OpenCV image handling functions
+
+# Author
+
+**Muhammad Abubakar**
