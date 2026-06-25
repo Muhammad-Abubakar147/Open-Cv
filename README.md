@@ -75,7 +75,8 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 ---
 # 📧 Contact
 <br>
-### For queries, feel free to reach out:
+
+## For queries, feel free to reach out:
 
 GitHub:https://github.com/Muhammad-Abubakar147
 <br>
