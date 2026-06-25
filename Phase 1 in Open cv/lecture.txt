@@ -1,4 +1,7 @@
 In this lecture we will disscuss that:
 => How to read images .
 =>Displying images .
-Saving images .
+=>Saving images .
+=>Images dimensions .
+=>Color channels .
+=>Grey scale conversion .
