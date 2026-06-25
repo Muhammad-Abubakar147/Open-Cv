@@ -13,3 +13,6 @@ In this lecture we will disscuss that:
 load images 
 convert to greyscale
 save images 
+
+
+=>Images is made up of small small pixels which actually are made up of color boxes .
