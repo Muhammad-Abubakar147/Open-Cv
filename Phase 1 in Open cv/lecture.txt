@@ -22,3 +22,6 @@ save images
 =>image sformat basically in which picture store example ".jpeg " ," .bmp ",
 
 
+How to install open cv in vs code :
+run this command in ur vs code 
+                              " pip install opencv-python"
