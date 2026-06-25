@@ -1,0 +1,4 @@
+In this lecture we will disscuss that:
+=> How to read images .
+=>Displying images .
+Saving images .
