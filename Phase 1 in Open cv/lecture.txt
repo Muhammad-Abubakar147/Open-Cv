@@ -25,3 +25,7 @@ save images
 How to install open cv in vs code :
 run this command in ur vs code 
                               " pip install opencv-python"
+
+
+How to import open cv :
+                    "import cv2"
