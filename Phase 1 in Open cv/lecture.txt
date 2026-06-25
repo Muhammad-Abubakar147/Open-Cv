@@ -20,3 +20,5 @@ save images
 =>Width and hieght basically decide picture size .
 =>Color channel are basically which store one part of color for each pixel .
 =>image sformat basically in which picture store example ".jpeg " ," .bmp ",
+
+
