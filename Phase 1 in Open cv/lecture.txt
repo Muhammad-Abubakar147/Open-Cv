@@ -28,4 +28,4 @@ run this command in ur vs code
 
 
 How to import open cv :
-                    "import cv2"
+                    "import cv2" with this command we can import open cv 
