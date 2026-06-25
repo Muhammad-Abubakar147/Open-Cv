@@ -16,3 +16,7 @@ save images
 
 
 =>Images is made up of small small pixels which actually are made up of color boxes .
+=>Pixels are basically small box which is made up of color it may be of any color .
+=>Width and hieght basically decide picture size .
+=>Color channel are basically which store one part of color for each pixel .
+=>image sformat basically in which picture store example ".jpeg " ," .bmp ",
