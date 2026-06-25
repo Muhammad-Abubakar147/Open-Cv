@@ -5,3 +5,11 @@ In this lecture we will disscuss that:
 =>Images dimensions .
 =>Color channels .
 =>Grey scale conversion .
+
+
+
+
+=>> Mini Projects :
+load images 
+convert to greyscale
+save images 
