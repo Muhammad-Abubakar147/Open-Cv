@@ -73,3 +73,9 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Google Colab
 
 ---
+📧 Contact
+For queries, feel free to reach out:
+
+GitHub:Muhammad-Abubakar147
+Email: brandmirza702@gmail.com
+Contact:+92 3227883319
