@@ -11,4 +11,4 @@ if image is not None:
      cv2.waitKey(0) #wait for a key
      cv2.destroyAllWindows()#close the window
 else:
-    print("Image is found")
+    print("Image not found")
