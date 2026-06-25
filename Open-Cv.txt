@@ -21,3 +21,8 @@ Open cv is python library which is use for:
 3. Supports multiple programming languages such as Python, C++, and Java
 4. Large community and extensive documentation
 5. Optimized for real-time performance
+
+It use in automated cars hwo is driving selfdriving.
+Ai robots who working it self .
+In medical field use in MRI machines .
+Use in Machine learning and Deep Learning .
