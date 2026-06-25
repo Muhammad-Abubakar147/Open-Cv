@@ -48,7 +48,7 @@ Phase 6 - Contours & Shape Detection
 
 Phase 7 - Face & Object Detection
 
-
+BIrth of Open Cv => 2000 and first try in 2006
 
 Problems Faced Before OpenCV
 
