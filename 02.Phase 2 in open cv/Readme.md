@@ -4,3 +4,4 @@
 - Resizing and Reshaping of Images in Open-Cv
 - Croping and Slicing of Images in Open-Cv
 - Rotate & Flip Images in Open-Cv
+- Draw Shapes
