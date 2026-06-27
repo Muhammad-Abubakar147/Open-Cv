@@ -8,3 +8,4 @@
 - Add Text on Images
 
 ## Technologies Used
+Python
