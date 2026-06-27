@@ -5,3 +5,4 @@
 - Croping and Slicing of Images in Open-Cv
 - Rotate & Flip Images in Open-Cv
 - Draw Shapes
+- Add Text on Images
