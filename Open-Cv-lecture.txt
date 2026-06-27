@@ -116,3 +116,6 @@ Problems Faced Before OpenCV
 
 15. Foundation for Advanced AI
     - Helps in learning YOLO, CNNs, Object Tracking, and Deep Learning-based Vision systems.
+
+
+=>> In this lecture we will disscuss completely about Open Cv and make projects about open cv 
