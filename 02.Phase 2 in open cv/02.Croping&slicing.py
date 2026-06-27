@@ -1,0 +1,1 @@
+#Here we will discuss how to crop and slice an image in open-cv
