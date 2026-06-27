@@ -1,1 +1,3 @@
 Here we will disscuss about Phase 2 in open cv
+
+Here we will discus about image "transformation and manipulation techniques"
