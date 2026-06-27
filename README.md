@@ -74,12 +74,8 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 
 ---
 # 📧 Contact
-<br>
-
+**Aurthor**: *Muhammad Abubakar*
 ## For queries, feel free to reach out:
-
-GitHub:https://github.com/Muhammad-Abubakar147
-<br>
-Email: brandmirza702@gmail.com
-<br>
-Contact:+92 3227883319
+- **GitHub**: [muhammad-abubakar147](https://github.com/Muhammad-Abubakar147)
+- **Email**: brandmirza702@gmail.com
+- **Contact**: +923227883319
