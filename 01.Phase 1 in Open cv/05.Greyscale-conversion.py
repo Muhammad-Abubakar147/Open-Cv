@@ -2,6 +2,8 @@
 #Here we will use method for changing color of image which is => "cvtColor" it will convert color of image .
 
 
+#Here we will discuss how grayscle method works 
+
 import cv2 #importing of cv
 image=cv2.imread("C:\Data\Open Cv\Open-Cv\Phase 1 in Open cv\opencv-.jpg") #opening of image 
 if image is not None:
