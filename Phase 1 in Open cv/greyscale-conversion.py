@@ -1,0 +1,1 @@
+#Grayscle conversion method is a method in which we can change color type of image .
