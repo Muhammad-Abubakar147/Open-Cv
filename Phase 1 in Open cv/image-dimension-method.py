@@ -2,7 +2,7 @@
 #Here method is used (image.shape)
 
 import cv2
-image =cv2.imread("Phase 1 in Open cv\opencv-.jpg") #oading of image in open cv 
+image =cv2.imread("Phase 1 in Open cv\opencv-.jpg") #Loading of image in open cv 
 if image is not None:
     h,w,c=image.shape #Image dimension method
     print(f"Image loaded:\nHieght: {h}\nWidth: {w}\nChannels: {c}")
