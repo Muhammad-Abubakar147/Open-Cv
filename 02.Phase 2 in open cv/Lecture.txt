@@ -7,3 +7,4 @@ Topics disscuss here :
 =>Croping of image 
 =>Rotation and fliping
 =>Drawing shapes 
+=> Adding text 
