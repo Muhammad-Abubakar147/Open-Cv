@@ -10,3 +10,4 @@
 ## Technologies Used
 - Python
 - OpenCV (cv2)
+- NumPy
