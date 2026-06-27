@@ -11,6 +11,8 @@ The purpose of this phase is to understand:
 - How to load an image
 - How to display an image
 - How to save an image
+- How to find dimension of image in open cv
+- How to convert in grayscale image 
 - Basic OpenCV image handling functions
 
 # Author
