@@ -5,7 +5,7 @@
 import cv2 #importing of cv
 image=cv2.imread("C:\Data\Open Cv\Open-Cv\Phase 1 in Open cv\opencv-.jpg") #opening of image 
 if image is not None:
-    gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY) 
+    gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY) #Grayscale converter method 
     cv2.imshow("Image is showing",gray)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
