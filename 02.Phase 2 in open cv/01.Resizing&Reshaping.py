@@ -10,8 +10,8 @@ if image is None: #if statement
     
 else:
     print("Image loaded")
-    resized=cv2.resize(image,(360,350))
-    cv2.imshow(" Orignal Image is showing",image)
-    cv2.imshow("Resized image is showing",resized)
-    cv2.waitKey(0)
+    resized=cv2.resize(image,(360,350)) #Syntax of resizing and reshaping an image in open cv
+    cv2.imshow(" Orignal Image is showing",image) #for showing  orignal image 
+    cv2.imshow("Resized image is showing",resized) #for showing new image 
+    cv2.waitKey(0) 
     cv2.destroyAllWindows()
