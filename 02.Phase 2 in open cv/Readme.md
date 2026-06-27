@@ -8,4 +8,5 @@
 - Add Text on Images
 
 ## Technologies Used
-Python
+- Python
+- OpenCV (cv2)
