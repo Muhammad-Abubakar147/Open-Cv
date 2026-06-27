@@ -5,6 +5,8 @@
 
 import cv2
 
+#Here we will discuss how to display an image in open cv
+
 image=cv2.imread("Open-Cv\Phase 1 in Open cv\opencv-.jpg") 
 if image is not None:
      cv2.imshow("Image displaying",image) #open the window
