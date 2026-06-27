@@ -6,3 +6,5 @@
 - Rotate & Flip Images in Open-Cv
 - Draw Shapes
 - Add Text on Images
+
+## Technologies Used
