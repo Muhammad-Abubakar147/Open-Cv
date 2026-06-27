@@ -1,6 +1,7 @@
 #This method is about to know of image hieght,width,color channel etc
 #Here method is used (image.shape)
 
+#Here we will know how to shape an image 
 import cv2
 image =cv2.imread("Phase 1 in Open cv\opencv-.jpg") #Loading of image in open cv 
 if image is not None:
