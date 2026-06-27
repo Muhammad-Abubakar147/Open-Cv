@@ -1,0 +1,1 @@
+#This method is about to know of image hieght,width,color channel etc
