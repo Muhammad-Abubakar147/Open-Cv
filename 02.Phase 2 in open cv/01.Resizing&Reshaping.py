@@ -3,9 +3,9 @@
 #syntax for this method => resize=cv2.resize(sorce,width,hieght,)
 
 import cv2
-image= cv2.imread("photos\cat image 2.jpg")
+image= cv2.imread("photos\cat image 2.jpg") #Loading an image
 
-if image is None:
+if image is None: #if statement
     print("Image not loaded")
     
 else:
