@@ -4,3 +4,4 @@ Here we will discus about image "transformation and manipulation techniques"
 
 Topics disscuss here :
 =>Resizizng and scaling 
+=>Croping of image 
