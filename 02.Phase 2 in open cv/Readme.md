@@ -2,3 +2,4 @@
 
 ## Topics Covered
 - Resizing and Reshaping of Images in Open-Cv
+- Croping and Slicing of Images in Open-Cv
