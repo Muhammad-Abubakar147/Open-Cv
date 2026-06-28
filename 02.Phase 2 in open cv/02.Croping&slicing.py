@@ -1,6 +1,8 @@
 #Here we will discuss how to crop and slice an image in open-cv
 #Crope image method use for croping some area from the picture in open cv
 
+#Syntax for this method "cropped_image = image[start_y:end_y, start_x:end_x]"
+
 import cv2 as cv  #importing cv 
 
 image =cv.imread("photos\cat iamge.jpg") #image read
