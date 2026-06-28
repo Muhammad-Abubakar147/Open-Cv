@@ -9,8 +9,8 @@ if image is not None:
     croped=image[100:500,100:500] #crope method syntax
     cv.imshow("ORignal",image) #will show orignal image 
     cv.imshow("Cropped",croped) #will show cropped image 
-    cv.waitKey(0)
-    cv.destroyAllWindows()
+    cv.waitKey(0) #if any key is pressed window will closed
+    cv.destroyAllWindows() #Closed all windows 
 
 
 
