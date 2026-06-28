@@ -7,7 +7,7 @@ image =cv.imread("photos\cat iamge.jpg") #image read
 
 if image is not None:
     croped=image[100:500,100:500] #crope method syntax
-    cv.imshow("ORignal",image)
+    cv.imshow("ORignal",image) #will show orignal image 
     cv.imshow("Cropped",croped)
     cv.waitKey(0)
     cv.destroyAllWindows()
