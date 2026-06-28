@@ -6,3 +6,5 @@
 #cv.ROTATE_180 =>for 180 degree 
 
 import cv2 as cv
+
+image =cv.imread("photos\cat image 2.jpg")
