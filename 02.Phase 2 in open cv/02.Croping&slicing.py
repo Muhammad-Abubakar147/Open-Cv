@@ -2,6 +2,8 @@
 #Crope image method use for croping some area from the picture in open cv
 
 #Syntax for this method "cropped_image = image[start_y:end_y, start_x:end_x]"
+# image[rows, columns]
+# image[y, x]
 
 import cv2 as cv  #importing cv 
 
