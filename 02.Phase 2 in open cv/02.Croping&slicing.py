@@ -3,5 +3,13 @@
 
 import cv2 as cv 
 
-image =cv.imread("photos\mother cat image.jpg")
-croped=image[100:200,150:50]
+image =cv.imread("photos\cat iamge.jpg")
+if image is not None:
+    croped=image[100:500,100:500]
+    cv.imshow("ORignal",image)
+    cv.imshow("Cropped",croped)
+    cv.waitKey(0)
+    cv.destroyAllWindows()
+
+
+
