@@ -3,3 +3,4 @@
 # Available Rotation Options :
 # cv.ROTATE_90_CLOCKWISE => for rotating clockwise
 #cv.ROTATE_90_COUNTERCLOCKWISE => for counter clockwis erotation of image 
+#cv.ROTATE_180
