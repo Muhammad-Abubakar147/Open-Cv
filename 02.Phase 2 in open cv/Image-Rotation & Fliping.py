@@ -1,1 +1,2 @@
 #Here we will discuss how to image rotate and flip .
+#Syntax for rotation => "rotated = cv.rotate(image, cv.ROTATE_90_CLOCKWISE)"
