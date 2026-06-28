@@ -15,6 +15,9 @@ if image is not None:
     cv.imshow("Cropped",croped) #will show cropped image 
     cv.waitKey(0) #if any key is pressed window will closed
     cv.destroyAllWindows() #Closed all windows 
+    
+else:
+    print("Image is not loaded")
 
 
 
