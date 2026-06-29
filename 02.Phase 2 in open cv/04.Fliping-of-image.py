@@ -13,10 +13,12 @@ if image is None:
     print("Could not load image")
     exit()
 else:
+    
     fliped_horizontal=cv.flip(image,1)
     fliped_vertically=cv.flip(image,0)
     fliped_both=cv.flip(image,-1)
     
+    cv.imshow("Orignal",image)
     cv.imshow("Flipped Horizonatally",fliped_horizontal)
     cv.imshow("Fliped Vertically",fliped_vertically)
     cv.imshow("Flipped_both",fliped_both)
