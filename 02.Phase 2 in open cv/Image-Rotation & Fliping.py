@@ -13,7 +13,8 @@ image =cv.imread("photos\cat image 2.jpg") # Load image
 center=(w//2,h//2) # Find center
 M=cv.getRotationMatrix2D(center,167,1.0) # Rotation Matrix
 
-rotated=cv.warpAffine(image, M, (w, h))
+rotated=cv.warpAffine(image, M, (w, h)) # Rotate image
+
 cv.imshow("Orignal Image",image)
 cv.imshow("Rotated Image",rotated)
 cv.waitKey(0)
