@@ -148,3 +148,5 @@ Here we will use method for changing color of image which is => "cvtColor" it wi
 syntax for this method => resize=cv2.resize(sorce,width,hieght,)
 
 ==============================================================================================
+
+=>Croping and slicing in open cv
