@@ -9,3 +9,6 @@
 import cv2 as cv #importing image
 
 image =cv.imread("photos\cat image 2.jpg")
+(h,w)=image.shape[:2]
+center=(w//2,h//2)
+M=cv.getRotationMatrix2D(center,120,1.0)
