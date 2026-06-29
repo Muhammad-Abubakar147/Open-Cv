@@ -11,7 +11,7 @@ image =cv.imread("C:\Data\Open Cv\Open-Cv\photos\cat iamge.jpg") #loading image
 
 if image is None:
     print("Could not load image")
-    exit()
+    exit() #will exit if not opened
 else:
     
     fliped_horizontal=cv.flip(image,1)
