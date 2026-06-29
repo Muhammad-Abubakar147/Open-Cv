@@ -4,6 +4,7 @@
 # cv.ROTATE_90_CLOCKWISE => for rotating clockwise
 #cv.ROTATE_90_COUNTERCLOCKWISE => for counter clockwis erotation of image 
 #cv.ROTATE_180 =>for 180 degree 
+#Syntax => rotation=cv.getRotationMatrix2D(center,angle,scale)
 
 import cv2 as cv #importing image
 
