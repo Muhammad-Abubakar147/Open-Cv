@@ -119,6 +119,8 @@ Problems Faced Before OpenCV
 
 
 =>> In this lecture we will disscuss completely about Open Cv and make projects about open cv 
+===============================================================================================
+
 
 => Displaying of Image in Open-Cv
 
@@ -127,5 +129,5 @@ There are methods of dispalying methods
 Imshow => it will show image on computer screen 
 waitkey => if we are not using it after imshow it will disappear from screen instantly 
 distroyallwindows => will close all open images on computer screen
-
+================================================================================================
 =>Image dimension Method
