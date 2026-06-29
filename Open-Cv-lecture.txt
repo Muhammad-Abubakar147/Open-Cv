@@ -150,3 +150,10 @@ syntax for this method => resize=cv2.resize(sorce,width,hieght,)
 ==============================================================================================
 
 =>Croping and slicing in open cv
+
+Here we will discuss how to crop and slice an image in open-cv
+Crope image method use for croping some area from the picture in open cv
+
+Syntax for this method "cropped_image = image[start_y:end_y, start_x:end_x]"
+image[rows, columns]
+image[y, x]
