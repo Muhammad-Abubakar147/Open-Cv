@@ -15,7 +15,7 @@ M=cv.getRotationMatrix2D(center,167,1.0) # Rotation Matrix
 
 rotated=cv.warpAffine(image, M, (w, h)) # Rotate image
 
-cv.imshow("Orignal Image",image)
-cv.imshow("Rotated Image",rotated)
+cv.imshow("Orignal Image",image) #Orignal image show
+cv.imshow("Rotated Image",rotated) #Rotated image show on screen 
 cv.waitKey(0)
 cv.destroyAllWindows()
