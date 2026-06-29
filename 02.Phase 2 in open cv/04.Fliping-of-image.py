@@ -14,9 +14,9 @@ if image is None:
     exit() #will exit if not opened
 else:
     
-    fliped_horizontal=cv.flip(image,1)
-    fliped_vertically=cv.flip(image,0)
-    fliped_both=cv.flip(image,-1)
+    fliped_horizontal=cv.flip(image,1) #This syntax flip horizonatal
+    fliped_vertically=cv.flip(image,0) #This syntax flip vertical
+    fliped_both=cv.flip(image,-1) #this syntax flip both horizontal and vertical
     
     cv.imshow("Orignal",image)
     cv.imshow("Flipped Horizonatally",fliped_horizontal)
