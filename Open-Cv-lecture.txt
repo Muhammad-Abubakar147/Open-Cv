@@ -119,3 +119,5 @@ Problems Faced Before OpenCV
 
 
 =>> In this lecture we will disscuss completely about Open Cv and make projects about open cv 
+
+=> Displaying of Image in Open-Cv
