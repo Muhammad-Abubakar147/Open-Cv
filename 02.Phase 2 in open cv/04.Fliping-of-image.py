@@ -18,10 +18,10 @@ else:
     fliped_vertically=cv.flip(image,0) #This syntax flip vertical
     fliped_both=cv.flip(image,-1) #this syntax flip both horizontal and vertical
     
-    cv.imshow("Orignal",image)
-    cv.imshow("Flipped Horizonatally",fliped_horizontal)
-    cv.imshow("Fliped Vertically",fliped_vertically)
-    cv.imshow("Flipped_both",fliped_both)
+    cv.imshow("Orignal",image) #print orignal image 
+    cv.imshow("Flipped Horizonatally",fliped_horizontal) #load horizontal image 
+    cv.imshow("Fliped Vertically",fliped_vertically) #load verticall image 
+    cv.imshow("Flipped_both",fliped_both) #load both image vert,hori
     
     cv.waitKey(0)
-    cv.destroyAllWindows()
+    cv.destroyAllWindows() #close all windows
