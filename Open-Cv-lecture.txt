@@ -131,3 +131,7 @@ waitkey => if we are not using it after imshow it will disappear from screen ins
 distroyallwindows => will close all open images on computer screen
 ================================================================================================
 =>Image dimension Method
+
+This method is about to know of image hieght,width,color channel etc
+Here method is used =>>> (image.shape)
+
