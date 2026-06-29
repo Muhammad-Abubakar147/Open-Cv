@@ -11,7 +11,7 @@ import cv2 as cv #importing image
 image =cv.imread("photos\cat image 2.jpg")
 (h,w)=image.shape[:2]
 center=(w//2,h//2)
-M=cv.getRotationMatrix2D(center,120,1.0)
+M=cv.getRotationMatrix2D(center,90,1.0)
 rotated=cv.warpAffine(image, M, (w, h))
 cv.imshow("Orignal Image",image)
 cv.imshow("Rotated Image",rotated)
