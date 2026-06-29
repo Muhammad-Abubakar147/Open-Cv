@@ -5,7 +5,7 @@
                                     #=> cv.flip(image,-1=both)
                         
                         
-import cv2 as cv
+import cv2 as cv  #importing cv
 
 image =cv.imread("C:\Data\Open Cv\Open-Cv\photos\cat iamge.jpg")
 
