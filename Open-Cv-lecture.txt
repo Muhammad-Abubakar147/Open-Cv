@@ -140,3 +140,11 @@ Here method is used =>>> (image.shape)
 
 Grayscle conversion method is a method in which we can change color type of image .
 Here we will use method for changing color of image which is => "cvtColor" it will convert color of image .
+
+===============================================================================================
+
+=>Resizing and reshaping of Image in Open-Cv
+
+syntax for this method => resize=cv2.resize(sorce,width,hieght,)
+
+==============================================================================================
