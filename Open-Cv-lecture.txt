@@ -159,3 +159,15 @@ image[rows, columns]
 image[y, x]
 
 =============================================================================================
+
+=>Image Rotation and Fliping ..
+
+Here we will discuss how to image rotate and flip .
+Syntax for rotation => "rotated = cv.rotate(image, cv.ROTATE_90_CLOCKWISE)"
+ Available Rotation Options :
+ cv.ROTATE_90_CLOCKWISE => for rotating clockwise
+cv.ROTATE_90_COUNTERCLOCKWISE => for counter clockwis erotation of image 
+cv.ROTATE_180 =>for 180 degree 
+Syntax => rotation=cv.getRotationMatrix2D(center,angle,scale)
+
+==============================================================================================
