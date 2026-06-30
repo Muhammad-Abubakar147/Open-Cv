@@ -8,3 +8,5 @@ How to add text on photo in open cv .
 
 =>Syntax for line drwaing in Open-cv
 
+drwaing-line=cv.line(image,part1,part2,color,thickness)
+
