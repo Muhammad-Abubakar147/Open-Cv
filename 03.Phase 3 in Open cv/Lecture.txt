@@ -5,3 +5,6 @@ Here we will discuss how we will Draw Rectangles in oprn cv .
 Here we will discuss how we will Draw Circles in oprn cv .
 How to add text on photo in open cv .
 
+
+=>Syntax for line drwaing in Open-cv
+
