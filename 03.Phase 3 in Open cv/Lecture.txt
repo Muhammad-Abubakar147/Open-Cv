@@ -3,4 +3,5 @@ Here we will discuss about 3rd phase in open cv .
 Here we will discuss how we will Draw lines in oprn cv .
 Here we will discuss how we will Draw Rectangles in oprn cv .
 Here we will discuss how we will Draw Circles in oprn cv .
+How to add text on photo in open cv .
 
