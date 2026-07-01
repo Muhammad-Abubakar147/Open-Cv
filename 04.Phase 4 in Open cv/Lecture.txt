@@ -10,6 +10,10 @@ Topics cover here :
 4.=> Proceed video file .
 5.=> Proces frame .
 
-Need to understand this :
+Need to understand this:
+
 What is video ?
 => video is basically a collection of many photos . In a video we see 30 to 60 photos in just a 1 second .
+
+What is Webcam ?
+=> Webcam is basically  is a video capture device that OpenCV uses to read live images frame by frame for real-time computer vision applications.
