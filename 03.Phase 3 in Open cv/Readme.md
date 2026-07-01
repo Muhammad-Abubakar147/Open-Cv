@@ -16,3 +16,16 @@ Learn how to draw circles using `cv2.circle()`.
 
 ### ✅ 04. Put Text on Image
 Learn how to write text on an image using `cv2.putText()`.
+
+## 📁 Folder Structure
+
+```
+03.Phase 3 in Open cv
+│
+├── 01.Line-Draw.py
+├── 02.Rectangle-Draw.py
+├── 03.Circle-Draw.py
+├── 04.Text-image.py
+├── Lecture.txt
+└── Readme.md
+```
