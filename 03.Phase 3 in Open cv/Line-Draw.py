@@ -3,9 +3,9 @@
 import cv2 #Importing cv 
 
 image =cv2.imread("photos\Cat image 3.jpg") #Loading image 
-
-pt1=(20,20)
-pt2=(200,200)
+#defining where line start and where line end 
+pt1=(100,50)
+pt2=(200,50)
 #define color of line 
 color=(250,0,0)
 #How much thickness of line 
