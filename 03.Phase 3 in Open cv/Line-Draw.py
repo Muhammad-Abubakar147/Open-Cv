@@ -2,7 +2,7 @@
 
 import cv2 #Importing cv 
 
-image =cv2.imread("photos\Cat image 3.jpg")
+image =cv2.imread("photos\Cat image 3.jpg") #Loading image 
 
 pt1=(20,20)
 pt2=(200,200)
