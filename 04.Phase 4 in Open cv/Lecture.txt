@@ -20,3 +20,4 @@ What is Webcam ?
 
 What is Frame ?
 => Frame is basically a image which is showing every seconds (discussed in video about it ).
+we cn say that 1 frame = 1 image & 1 video = many frames 
