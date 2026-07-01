@@ -29,3 +29,13 @@ Learn how to write text on an image using `cv2.putText()`.
 ├── Lecture.txt
 └── Readme.md
 ```
+## 🎯 Learning Outcome
+
+After completing this phase, you will be able to:
+
+- Draw lines on images
+- Create rectangles
+- Draw circles
+- Add text to images
+- Understand BGR color format
+- Work with coordinates in OpenCV
