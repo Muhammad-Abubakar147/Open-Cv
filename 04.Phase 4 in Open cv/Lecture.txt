@@ -9,3 +9,7 @@ Topics cover here :
 3.=> Save video .
 4.=> Proceed video file .
 5.=> Proces frame .
+
+Need to understand this :
+What is video ?
+=> video is basically a collection of many photos . In a video we see 30 to 60 photos in just a 1 second .
