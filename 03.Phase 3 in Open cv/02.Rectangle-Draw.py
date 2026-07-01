@@ -13,7 +13,10 @@ pt2=(200,200)
 color=(250,0,0)
 #How much thickness
 thickness=(5)
+#Rectangle syntax for drawing
 cv2.rectangle(image,pt1,pt2,color,thickness)
+#image show syntax
 cv2.imshow("Rectangle image",image)
 cv2.waitKey(0)
+#destroy all windows (close all windows)
 cv2.destroyAllWindows()
