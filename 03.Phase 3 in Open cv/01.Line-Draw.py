@@ -12,7 +12,9 @@ color=(250,0,0)
 thicknes=(4)
 #Line draw syntax 
 cv2.line(image,pt1,pt2,color,thicknes)
-
+#image show 
 cv2.imshow("Image Showing",image)
+
 cv2.waitKey(0)
+#destroy all windows
 cv2.destroyAllWindows()
