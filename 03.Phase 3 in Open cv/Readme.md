@@ -11,3 +11,6 @@ Learn how to draw straight lines on an image using `cv2.line()`.
 ### ✅ 02. Draw Rectangle
 Learn how to create rectangles using `cv2.rectangle()`.
 
+### ✅ 03. Draw Circle
+Learn how to draw circles using `cv2.circle()`.
+
