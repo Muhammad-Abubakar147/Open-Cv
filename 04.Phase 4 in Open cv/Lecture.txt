@@ -12,6 +12,8 @@ Topics cover here :
 
 Need to understand this:
 
+What is video comonents |
+
 What is video ?
 => video is basically a collection of many photos . In a video we see 30 to 60 photos in just a 1 second .
 
