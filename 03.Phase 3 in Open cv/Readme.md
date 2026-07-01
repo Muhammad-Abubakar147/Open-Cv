@@ -14,3 +14,5 @@ Learn how to create rectangles using `cv2.rectangle()`.
 ### ✅ 03. Draw Circle
 Learn how to draw circles using `cv2.circle()`.
 
+### ✅ 04. Put Text on Image
+Learn how to write text on an image using `cv2.putText()`.
