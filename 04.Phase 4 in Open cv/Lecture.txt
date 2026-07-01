@@ -17,3 +17,6 @@ What is video ?
 
 What is Webcam ?
 => Webcam is basically  is a video capture device that OpenCV uses to read live images frame by frame for real-time computer vision applications.
+
+What is Frame ?
+=> Frame is basically a image which is showing every seconds (discussed in video about it ).
