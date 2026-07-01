@@ -8,3 +8,6 @@ This phase covers the basic drawing functions provided by OpenCV. These function
 ### ✅ 01. Draw Line
 Learn how to draw straight lines on an image using `cv2.line()`.
 
+### ✅ 02. Draw Rectangle
+Learn how to create rectangles using `cv2.rectangle()`.
+
