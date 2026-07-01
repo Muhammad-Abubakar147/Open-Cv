@@ -1,6 +1,6 @@
 #Here we will discus about how to draw a line on image 
 
-import cv2 
+import cv2 #Importing cv 
 
 image =cv2.imread("photos\Cat image 3.jpg")
 
