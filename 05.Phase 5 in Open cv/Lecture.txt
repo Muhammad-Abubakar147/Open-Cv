@@ -1,0 +1,8 @@
+In this phase we learn about by image filtering process .
+
+
+Topisc cover here :
+1=> Raw iamges .
+2=> Guassian blur  .
+3=> Median blur .
+4=> Sharpening filters .
