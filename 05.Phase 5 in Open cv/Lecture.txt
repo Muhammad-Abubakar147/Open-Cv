@@ -6,3 +6,11 @@ Topisc cover here :
 2=> Guassian blur  .
 3=> Median blur .
 4=> Sharpening filters .
+
+
+
+Syntax for Guassian blur image in open cv 
+
+#blur image=cv2.GuassianBlur(image,(kernal_size_x,kernal_size_y),sigma)
+
+Here is kernal size=(3,3,) means that iamge will be blury at low point and if we pass (9,9) image will strong blury.
