@@ -8,3 +8,5 @@ In this phase, I explored the fundamentals of **Image Filtering** using OpenCV. 
 
 - 🖼️ Raw Images
 - 🌫️ Gaussian Blur
+- 🎯 Median Blur
+- ✨ Sharpening Filters
