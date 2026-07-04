@@ -1,1 +1,11 @@
 #Phase 6 of open cv in which we will discuss about "Edges detection and tresholding" in open cv .
+
+
+Topics cover here :
+
+1=> Canny edge detection .
+2=> Image thresholding .
+3=> Binary thresholding .
+4=> Adaptive thresholding .
+5=> Bitwaise Operations .
+6=> And Operations OR Operations NOT Operations .
