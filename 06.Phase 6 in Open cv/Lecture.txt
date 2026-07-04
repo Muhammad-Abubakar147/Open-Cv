@@ -1,0 +1,1 @@
+#Phase 6 of open cv in which we will discuss about "Edges detection and tresholding" in open cv .

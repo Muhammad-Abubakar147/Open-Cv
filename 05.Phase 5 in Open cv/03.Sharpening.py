@@ -12,6 +12,6 @@ sharpen_kernal =np.array([[0,-1,0],
 
 sharped=cv2.filter2D(image,-1,sharpen_kernal)
 cv2.imshow("origanl image",image)
-cv2.imshow("sharp image",sharped)
+cv2.imshow("sharp image",sharped               )
 cv2.waitKey(0)
 cv2.destroyAllWindows()
