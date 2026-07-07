@@ -1,3 +1,5 @@
+1 
+
 # OPEN CV
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="200"/>
@@ -7,6 +9,7 @@
 A comprehensive collection of Computer Vision and Image Processing projects built using OpenCV and Python. This repository serves as a learning resource for beginners and an implementation reference for students, developers, and AI enthusiasts interested in computer vision.
 
 ---
+
 ## 📌 About OpenCV
 
 OpenCV (Open Source Computer Vision Library) is one of the most widely used open-source libraries for computer vision, image processing, and machine learning applications. It provides a rich set of tools for analyzing images and videos, detecting objects, recognizing faces, tracking motion, and building real-time AI-powered vision systems.
@@ -14,9 +17,11 @@ OpenCV (Open Source Computer Vision Library) is one of the most widely used open
 This repository demonstrates practical implementations of OpenCV concepts through various projects and examples.
 
 ---
+
 ## 🚀 Features
 
 ### Image Processing
+
 - Reading and displaying images
 - Image resizing and cropping
 - Color space conversions
@@ -25,8 +30,9 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Blurring and smoothing
 - Thresholding techniques
 - Histogram analysis
-  
+
 ### Computer Vision
+
 - Edge detection
 - Contour detection
 - Shape recognition
@@ -35,6 +41,7 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Template matching
 
 ### Object Detection
+
 - Face detection
 - Eye detection
 - Smile detection
@@ -42,8 +49,8 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Vehicle detection
 - Custom object detection
 
-
 ### Video Processing
+
 - Video capture and playback
 - Webcam integration
 - Real-time frame processing
@@ -51,8 +58,8 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Object tracking
 - Background subtraction
 
-
 ### Advanced Applications
+
 - Optical Character Recognition (OCR)
 - Deep Learning with OpenCV
 - Pose Estimation
@@ -61,6 +68,7 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Real-Time AI Vision Systems
 
 ---
+
 ## 🛠️ Technologies Used
 
 - Python 3.x
@@ -73,9 +81,13 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 - Google Colab
 
 ---
+
 # 📧 Contact
+
 **Aurthor**: *Muhammad Abubakar*
+
 ## For queries, feel free to reach out:
+
 - **GitHub**: [muhammad-abubakar147](https://github.com/Muhammad-Abubakar147)
 - **Email**: brandmirza702@gmail.com
 - **Contact**: +923227883319
