@@ -1,0 +1,1 @@
+#Bitwise method (operator) is use for combine 2 images =>cutout image => flip image
