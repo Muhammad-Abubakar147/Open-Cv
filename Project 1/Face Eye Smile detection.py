@@ -2,7 +2,6 @@
 # Face + Eye + Smile Detection using OpenCV
 # Press Q to Exit
 # ==========================================
-
 import cv2
 
 # -----------------------------
