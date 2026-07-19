@@ -1,1 +1,3 @@
 Here we will disscuss about how to get know about shapes and contours in open cv . 
+
+Here we will disscuss about contors finding shape detection and drawing contours in open cv .
