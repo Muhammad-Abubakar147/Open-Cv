@@ -1,0 +1,1 @@
+Here we will disscuss about how to get know about shapes and contours in open cv . 
