@@ -5,6 +5,6 @@ Here we will disscuss about contors finding shape detection and drawing contours
 
 => What is contours in open cv ??
 
-In OpenCV, contours are the boundaries or outlines of objects in an image.
+=> In OpenCV, contours are the boundaries or outlines of objects in an image.
 
-Think of a contour as a line that joins all the continuous points having the same intensity (color or brightness). It is mainly used to detect the shape of objects.
+=> Think of a contour as a line that joins all the continuous points having the same intensity (color or brightness). It is mainly used to detect the shape of objects.
