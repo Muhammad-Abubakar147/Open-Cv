@@ -8,3 +8,5 @@ Here we will disscuss about contors finding shape detection and drawing contours
 => In OpenCV, contours are the boundaries or outlines of objects in an image.
 
 => Think of a contour as a line that joins all the continuous points having the same intensity (color or brightness). It is mainly used to detect the shape of objects.
+
+Binary image = black and white image .
