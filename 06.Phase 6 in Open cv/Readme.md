@@ -12,3 +12,10 @@ This phase covers some essential image processing techniques in OpenCV using Pyt
 
   - **03.Bitwise image.py**  
   Demonstrates Bitwise Operations (`AND`, `OR`,  `NOT`) on images.
+
+
+## 🛠️ Technologies Used
+
+- Python
+- OpenCV (`cv2`)
+- NumPy
