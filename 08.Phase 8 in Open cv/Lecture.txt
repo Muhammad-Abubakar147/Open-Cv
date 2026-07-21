@@ -1,2 +1,7 @@
 Here we will discuss about face and object detection in open cv 
+
 in this phase we will completely disscus that how show and  detect an object and face in open cv .
+
+In this phase we will learn that how to detect face how to detect smile how to detect eye in open cv by using "HAARCASCADE" and we will draw 
+
+boxes around it by using open cv 
