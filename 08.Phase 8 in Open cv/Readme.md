@@ -16,3 +16,21 @@ This phase demonstrates how to detect faces and objects in images and videos usi
 - OpenCV (`cv2`)
 - Haar Cascade Classifiers
 - NumPy
+
+## 📚 Topics Covered
+
+- Face Detection
+- Object Detection
+- Image Processing
+- Webcam Capture
+- Bounding Boxes
+
+## 🎯 Learning Outcomes
+
+- Detect faces in images and videos.
+- Detect objects using OpenCV.
+- Draw bounding boxes around detected objects.
+- Work with real-time webcam detection.
+
+---
+⭐ If you found this repository helpful, don't forget to **Star** the repository!
