@@ -5,3 +5,18 @@ in this phase we will completely disscus that how show and  detect an object and
 In this phase we will learn that how to detect face how to detect smile how to detect eye in open cv by using "HAARCASCADE" and we will draw 
 
 boxes around it by using open cv 
+
+
+=>Problems face in open cv for detecting something .
+
+Computer didnot understand what is face ? 
+Manullay marking of face 
+Consistant and fast detection lack
+
+For these Problems HARCASCADE method is used .
+
+What is HARCASCADE ?
+
+=> It is Ai train model which knows whats is face 
+=> It work real time perfectly (fast)
+=>Without internet can be used 
