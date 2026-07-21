@@ -9,3 +9,6 @@ This phase covers some essential image processing techniques in OpenCV using Pyt
 
 - **02.Threshold-image.py**  
   Applies different thresholding techniques to convert images into binary form.
+
+  - **03.Bitwise image.py**  
+  Demonstrates Bitwise Operations (`AND`, `OR`,  `NOT`) on images.
