@@ -1,2 +1,2 @@
 Here we will discuss about face and object detection in open cv 
-in this phase we will completely disscusshow to detect an object and face in open cv .
+in this phase we will completely disscus that how show and  detect an object and face in open cv .
