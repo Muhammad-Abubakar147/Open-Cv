@@ -19,10 +19,10 @@ while True:
     
     for (x,y,w,h) in faces:
         cv2.rectangle(frame,(x,y),(x+w,y+h),(0,255,0),2)
-        cv2.imshow("Webcam face detection",frame )
+    cv2.imshow("Webcam face detection",frame )
         
-        if cv2.waitKey(1) & 0xFF==ord("q"):
-            break
+    if cv2.waitKey(1) & 0xFF==ord("q"):
+        break
         
 cap.release()
 cv2.destroyAllWindows()
