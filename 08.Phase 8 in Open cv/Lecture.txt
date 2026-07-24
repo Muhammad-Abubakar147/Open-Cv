@@ -19,10 +19,10 @@ What is HARCASCADE ?
 
 => It is Ai train model which knows whats is face 
 => It work real time perfectly (fast)
-=>Without internet can be used 
+=> Without internet can be used 
 
 Requirements for this method ?
 
-=>Webcam 
+=> Webcam 
 => Open cv 
-=>HAAR xml file 
+=> HAAR xml file 
