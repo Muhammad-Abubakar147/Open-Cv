@@ -1,4 +1,3 @@
-1 
 
 # OPEN CV
 
@@ -85,6 +84,6 @@ This repository demonstrates practical implementations of OpenCV concepts throug
 
 ## For queries, feel free to reach out:
 
-- **GitHub**: [muhammad-abubakar147](https://github.com/Muhammad-Abubakar147)
-- **Email**: brandmirza702@gmail.com
-- **Contact**: +923227883319
+- **GitHub**: [Github](https://github.com/Muhammad-Abubakar147)
+- **Email**: [Email](brandmirza702@gmail.com)
+- **Contact**: [Cell](+923227883319)
