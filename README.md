@@ -81,3 +81,55 @@ Based on the repository structure and its documented focus, this repository cove
 - **Assets:** The repository also includes [`Videos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/Videos), [`photos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/photos), and [`XML files folder`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/XML%20files%20folder), which support the practical exercises and detection-related work.
 
 ---
+
+## ⚙️ Installation and Setup
+
+### 1. Clone the Repository
+
+```bash
+git clone [https://github.com/Muhammad-Abubakar147/Open-Cv.git](https://github.com/Muhammad-Abubakar147/Open-Cv.git)
+```
+
+### 2. Navigate to the Project
+
+```bash
+cd Open-Cv
+```
+
+### 3. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+Activate the environment:
+
+```bash
+# Windows
+venv\Scripts\activate
+
+# macOS / Linux
+source venv/bin/activate
+```
+
+### 4. Install OpenCV
+
+```bash
+pip install opencv-python
+```
+
+If NumPy is required by any script, install it with:
+
+```bash
+pip install numpy
+```
+
+### 5. Run a Python Script
+
+```bash
+python your_script_name.py
+```
+
+> Some scripts may require a webcam, video file, or image file. Make sure the required media files are available in the correct location before running them.
+
+---
