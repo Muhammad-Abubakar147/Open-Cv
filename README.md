@@ -15,5 +15,4 @@ A practical Python and OpenCV learning repository covering image processing, com
 [![License](https://img.shields.io/badge/License-Not%20Specified-lightgrey?style=for-the-badge)](./)
 
 </div>
-
 ---
