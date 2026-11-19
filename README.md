@@ -78,6 +78,6 @@ Based on the repository structure and its documented focus, this repository cove
 - **Description:** A dedicated practical OpenCV project included as part of the repository’s applied learning work.
 - **Technologies:** Python, OpenCV
 - **Concepts Demonstrated:** Practical use of OpenCV for computer-vision implementation
-- **Assets:** The repository also includes [`Videos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/Videos), [`photos`](./photos), and [`XML files folder`](./XML%20files%20folder), which support the practical exercises and detection-related work.
+- **Assets:** The repository also includes [`Videos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/Videos), [`photos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/photos), and [`XML files folder`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/XML%20files%20folder), which support the practical exercises and detection-related work.
 
 ---
