@@ -74,7 +74,7 @@ Based on the repository structure and its documented focus, this repository cove
 
 ### Project 1
 
-- **Location:** [`Project 1`](./Project%201)
+- **Location:** [`Project 1`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/Project%201)
 - **Description:** A dedicated practical OpenCV project included as part of the repository’s applied learning work.
 - **Technologies:** Python, OpenCV
 - **Concepts Demonstrated:** Practical use of OpenCV for computer-vision implementation
