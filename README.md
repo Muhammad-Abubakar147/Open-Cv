@@ -145,3 +145,29 @@ python your_script_name.py
 6. Use the [`photos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/photos), [`Videos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/Videos), and [`XML files folder`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/XML%20files%20folder) directories as supporting assets for the exercises.
 
 ---
+## 🎯 Learning Outcomes
+
+Through this repository, I am developing practical skills in:
+
+- Writing Python programs for Computer Vision
+- Using OpenCV to process and analyze images
+- Working with image and video inputs
+- Applying detection-based computer-vision techniques
+- Understanding how real-time vision applications process visual data
+- Organizing machine-learning and computer-vision learning projects professionally
+- Building a strong practical foundation for future AI and Deep Learning work
+
+---
+
+## 🔭 Future Learning Goals
+
+The following areas are part of my future learning roadmap and are **not yet claimed as completed implementations** in this repository:
+
+- **YOLO** for real-time object detection
+- **MediaPipe** for face, hand, pose, and holistic vision solutions
+- **Real-Time Object Detection** using modern deep-learning models
+- **Deep Learning for Computer Vision** using neural networks
+- **Image Classification** and advanced visual recognition systems
+- **Deployment of Computer Vision models** in practical applications
+
+---
