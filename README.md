@@ -32,3 +32,6 @@ The repository is designed to build practical, hands-on skills in:
 This repository reflects my journey toward becoming a **Machine Learning and AI Engineer**, with a particular focus on Computer Vision, Deep Learning, and Artificial Intelligence.
 
 ---
+## 🗺️ Learning Roadmap
+
+The repository is organized into eight phases, progressing from foundational OpenCV concepts toward practical computer-vision applications.
