@@ -171,3 +171,21 @@ The following areas are part of my future learning roadmap and are **not yet cla
 - **Deployment of Computer Vision models** in practical applications
 
 ---
+## 👤 About Me
+
+<div align="center">
+
+### **Muhammad Abubakar**
+
+Final-Year BS Zoology Student  
+Python Developer | Aspiring Machine Learning & AI Engineer  
+
+Interested in **Computer Vision**, **Deep Learning**, and **Artificial Intelligence**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Muhammad--Abubakar147-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Abubakar147)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Abubakar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadabubakar147/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F9D58?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhammad-abubakar147.netlify.app/)
+
+</div>
+
+---
