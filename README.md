@@ -133,3 +133,15 @@ python your_script_name.py
 > Some scripts may require a webcam, video file, or image file. Make sure the required media files are available in the correct location before running them.
 
 ---
+
+
+## 🧪 How to Use
+
+1. Start with [`01.Phase 1 in Open cv`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/01.Phase%201%20in%20Open%20cv) to understand the foundational OpenCV workflow.
+2. Move through the phases in numerical order to follow the learning progression.
+3. Open any Python file inside a phase folder to review the implementation.
+4. Run the script after installing the required dependencies.
+5. Explore [`Project 1`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/Project%201) for a practical, project-based implementation.
+6. Use the [`photos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/photos), [`Videos`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/Videos), and [`XML files folder`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/XML%20files%20folder) directories as supporting assets for the exercises.
+
+---
