@@ -189,3 +189,14 @@ Interested in **Computer Vision**, **Deep Learning**, and **Artificial Intellige
 </div>
 
 ---
+
+<div align="center">
+
+### 🌟 Explore • Learn • Build • Contribute
+
+This repository represents my ongoing journey in Computer Vision and Artificial Intelligence.  
+Feel free to explore the code, learn from the implementations, and contribute ideas or improvements.
+
+**“Every image contains information — Computer Vision teaches us how to see it.”**
+
+</div>
