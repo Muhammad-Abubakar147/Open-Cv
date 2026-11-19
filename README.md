@@ -42,7 +42,7 @@ The repository is organized into eight phases, progressing from foundational Ope
 | 02 | [`02.Phase 2 in open cv`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/02.Phase%202%20in%20open%20cv) | Continued OpenCV learning and practical implementation exercises |
 | 03 | [`03.Phase 3 in Open cv`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/03.Phase%203%20in%20Open%20cv) | Intermediate computer-vision and image-processing practice |
 | 04 | [`04.Phase 4 in Open cv`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/04.Phase%204%20in%20Open%20cv) | Further OpenCV concepts and hands-on experiments |
-| 05 | [`05.Phase 5 in Open cv`](./05.Phase%205%20in%20Open%20cv) | Advanced-stage OpenCV learning and practical exercises |
+| 05 | [`05.Phase 5 in Open cv`](https://github.com/Muhammad-Abubakar147/Open-Cv/tree/main/05.Phase%205%20in%20Open%20cv) | Advanced-stage OpenCV learning and practical exercises |
 | 06 | [`06.Phase 6 in Open cv`](./06.Phase%206%20in%20Open%20cv) | Computer-vision practice and implementation work |
 | 07 | [`07.Phase 7 in Open cv`](./07.Phase%207%20in%20Open%20cv) | Practical OpenCV applications and experiments |
 | 08 | [`08.Phase 8 in Open cv`](./08.Phase%208%20in%20Open%20cv) | Final-phase OpenCV learning and project-oriented practice |
