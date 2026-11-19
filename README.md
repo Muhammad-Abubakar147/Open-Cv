@@ -70,3 +70,14 @@ Based on the repository structure and its documented focus, this repository cove
 | **Practical Computer Vision Projects** | Applied implementations in the dedicated project folder |
 
 ---
+## 🚀 Practical Projects
+
+### Project 1
+
+- **Location:** [`Project 1`](./Project%201)
+- **Description:** A dedicated practical OpenCV project included as part of the repository’s applied learning work.
+- **Technologies:** Python, OpenCV
+- **Concepts Demonstrated:** Practical use of OpenCV for computer-vision implementation
+- **Assets:** The repository also includes [`Videos`](./Videos), [`photos`](./photos), and [`XML files folder`](./XML%20files%20folder), which support the practical exercises and detection-related work.
+
+---
