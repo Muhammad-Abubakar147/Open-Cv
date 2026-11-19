@@ -52,3 +52,21 @@ The repository is organized into eight phases, progressing from foundational Ope
 > **Note:** Each phase contains its own Python scripts and learning material. The exact topics implemented in every script can be explored directly through the linked folders.
 
 ---
+
+## 🧠 Topics Covered
+
+Based on the repository structure and its documented focus, this repository covers:
+
+| Area | Description |
+|---|---|
+| **Image Processing** | Practical work with images, including reading, displaying, and processing visual data |
+| **Image Manipulation** | Hands-on experimentation with OpenCV image operations |
+| **Computer Vision Fundamentals** | Core concepts used to analyze and interpret images |
+| **Video Processing** | Work with video-based inputs and real-time processing workflows |
+| **Image and Video Capture** | Use of image and video resources within OpenCV applications |
+| **Face Detection** | Face-detection practice supported by the repository’s XML classifier files |
+| **Object Detection** | Practical exploration of object-detection concepts using OpenCV |
+| **Drawing and Visualization** | Visualization of results and visual elements within OpenCV applications |
+| **Practical Computer Vision Projects** | Applied implementations in the dedicated project folder |
+
+---
