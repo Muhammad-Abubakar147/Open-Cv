@@ -16,3 +16,6 @@ A practical Python and OpenCV learning repository covering image processing, com
 
 </div>
 ---
+## 📌 About This Repository
+
+**Open-Cv** is a structured learning repository for Computer Vision and Image Processing using **Python** and **OpenCV**. It contains eight progressive learning phases, practical exercises, image and video assets, XML classifier files, and a dedicated project folder.
