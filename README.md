@@ -28,3 +28,7 @@ The repository is designed to build practical, hands-on skills in:
 - Detecting faces and objects using OpenCV
 - Building real-time computer-vision applications
 - Organizing reusable Python scripts for learning and experimentation
+
+This repository reflects my journey toward becoming a **Machine Learning and AI Engineer**, with a particular focus on Computer Vision, Deep Learning, and Artificial Intelligence.
+
+---
